@@ -37,12 +37,17 @@
         "icon": "https://img.icons8.com/color/48/000000/css3.png"
     },
     {
+        "name": "Tailwind CSS",
+        "icon": "https://icons8.com/icon/x7XMNGh2vdqA/tailwind-css"
+    },
+   
+    {
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "name": "Typescript",
+        "icon": "https://icons8.com/icon/wpZmKzk11AzJ/typescript"
     },
     {
         "name": "C",
@@ -53,12 +58,6 @@
         "name": "Python",
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
-  
-    {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
-    },
-  
     {
         "name": "C++",
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
@@ -87,6 +86,10 @@
     {
         "name": "Postman",
         "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"
+    },
+    {
+        "name":"Google Firebase",
+        "icon":"https://icons8.com/icon/87330/google-firebase-console"
     },
     {
         "name": "Team Work",
