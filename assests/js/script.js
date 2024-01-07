@@ -75,7 +75,7 @@ function(){
  $("#contact-form").submit(function (event) {
     
     event.preventDefault();
-    emailjs.init("GxeCJ8Z_H5lWixQoW");
+    emailjs.init("wTkHIugxAAE_yijwy");
     console.log("form submitted");
 
     var params={
@@ -86,7 +86,7 @@ function(){
 
     }
     console.log(params)
-    emailjs.send('service_b4eylol', 'template_2li9mu5', params).then(function (response) {
+    emailjs.send("service_rw3j4y8","template_um5psrj", params).then(function (response) {
             console.log('SUCCESS!', response.status, response.text);
 
             document.getElementById("contact-form").reset();
