@@ -41,7 +41,7 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Portfolio | Raunak Agarwal";
+        document.title = "Portfolio | Harsh srivastava";
         $("#favicon").attr("href","assests/images/hero1.png");
     }
     else {
@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Full-Stack development", "Competitive Programming", "Data Structures and Algorithms"],
+        strings: ["Full-Stack development", "Data Structures and Algorithms"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 35,
